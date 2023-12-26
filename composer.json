@@ -1,0 +1,19 @@
+{
+    "name": "pratamarizki22/simple-library",
+    "description": "membuat library simple",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PratamaRizki22",
+            "email": "rizkipurnomo914@gmail.com"
+        }
+    ],
+    "autoload": {
+            "psr-4": {
+                "SimpleLibrary\\": "src/"
+            }
+    },
+    
+    "require": {}
+}
